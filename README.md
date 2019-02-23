@@ -1,3 +1,3 @@
 # DropBox Clone
- [x] Select files
- [x] Modal 'sending'
+- [x] Select files
+- [x] Modal 'sending'
